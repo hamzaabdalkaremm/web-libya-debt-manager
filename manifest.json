@@ -1,0 +1,23 @@
+
+{
+  "short_name": "ديون ويب ليبيا",
+  "name": "ويب ليبيا - إدارة الديون والقروض",
+  "icons": [
+    {
+      "src": "https://picsum.photos/id/20/192/192",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://picsum.photos/id/20/512/512",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#4f46e5",
+  "background_color": "#f8fafc",
+  "dir": "rtl",
+  "lang": "ar"
+}
